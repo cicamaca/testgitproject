@@ -7,6 +7,8 @@ public class Glavna {
 
 		System.out.println("cao cao");
 		System.out.println("cao cao");
+		System.out.println("cao cao cao");
+		System.out.println("cao cao cao cao");
 		
 	}
 
