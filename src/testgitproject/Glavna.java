@@ -13,8 +13,6 @@ public class Glavna {
 		
 		System.out.println("promenila sam lokalni fajl");
 		
-		System.out.println("nesto sam zeznula");
-		
 	}
 
 }
