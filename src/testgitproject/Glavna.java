@@ -11,6 +11,8 @@ public class Glavna {
 		System.out.println("cao cao cao cao");
 		System.out.println("cao cao cao cao  cao");
 		
+		System.out.println("promenila sam lokalni fajl");
+		
 	}
 
 }
