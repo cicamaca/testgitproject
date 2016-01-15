@@ -6,6 +6,7 @@ public class Glavna {
 		// TODO Auto-generated method stub
 
 		System.out.println("cao cao");
+		System.out.println("cao cao");
 		
 	}
 
